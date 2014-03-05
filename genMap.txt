@@ -1,0 +1,4 @@
+xMap=09
+yMap=09
+nbPlayer=1
+nbIa=01

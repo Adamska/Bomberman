@@ -1,0 +1,22 @@
+aaaaaaaaa
+ggggggggg
+ggggggggg
+ggggggggg
+ggggggggg
+hhhhhhhhh
+hhhbbhhhh
+hhhhhhhhh
+aaaaaaaaa
+
+# explications
+
+# bloc indestructible = a 
+# bloc destructible = b
+# bloc destructible bonus bombe = c
+# bloc destructible bonus speed  = d
+# bloc destructible bonus portee = e
+# bloc vide = f
+# bonus bombe = g
+# bonus speed = h
+# bonus portee = i
+# bonus energie = j
