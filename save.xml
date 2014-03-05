@@ -1,6 +1,6 @@
 <option>
 	<run>0</run>
-	<gameclock>27.0865</gameclock>
+	<gameclock>8.9038</gameclock>
 	<xmap>9</xmap>
 	<ymap>9</ymap>
 	<nbPlayer>1</nbPlayer>
@@ -8,29 +8,29 @@
 </option>
 <player>
 	<id>0</id>
-	<colorR>97</colorR>
-	<colorG>213</colorG>
-	<colorB>115</colorB>
-	<colorA>180</colorA>
-	<pos>4.44;3.88</pos>
-	<direction>2</direction>
+	<colorR>126</colorR>
+	<colorG>20</colorG>
+	<colorB>88</colorB>
+	<colorA>132</colorA>
+	<pos>7.2;3.98</pos>
+	<direction>0</direction>
 	<ia>0</ia>
 	<caract>
 		<alive>1</alive>
-		<speed>6</speed>
-		<maxBomb>13</maxBomb>
-		<actualBomb>2</actualBomb>
+		<speed>2</speed>
+		<maxBomb>1</maxBomb>
+		<actualBomb>0</actualBomb>
 	<range>0</range>
 	</caract>
 </player>
 <player>
 	<id>1</id>
-	<colorR>213</colorR>
-	<colorG>136</colorG>
-	<colorB>101</colorB>
-	<colorA>228</colorA>
-	<pos>7.02;1.94</pos>
-	<direction>1</direction>
+	<colorR>198</colorR>
+	<colorG>243</colorG>
+	<colorB>162</colorB>
+	<colorA>132</colorA>
+	<pos>7.5;7.5</pos>
+	<direction>2</direction>
 	<ia>1</ia>
 	<caract>
 		<alive>0</alive>
@@ -40,31 +40,17 @@
 	<range>0</range>
 	</caract>
 </player>
-<bomb>
-	<idPlayer>0</idPlayer>
-	<pos>6.5;1.5</pos>
-	<timer>22.7681</timer>
-	<delay>3</delay>
-	<range>1</range>
-</bomb>
-<bomb>
-	<idPlayer>0</idPlayer>
-	<pos>5.5;1.5</pos>
-	<timer>23.3057</timer>
-	<delay>3</delay>
-	<range>1</range>
-</bomb>
 <map>
 	<xmax>9</xmax>
 	<ymax>9</ymax>
 	<line>0;0;0;0;0;0;0;0;0</line>
-	<line>0;6;6;6;6;6;6;6;0</line>
-	<line>0;6;0;6;0;6;0;6;0</line>
-	<line>0;6;6;6;6;6;6;6;0</line>
-	<line>0;6;0;6;0;6;0;6;0</line>
-	<line>0;6;6;6;6;6;6;6;0</line>
-	<line>0;6;0;1;0;6;0;6;0</line>
-	<line>0;6;6;6;6;6;6;6;0</line>
+	<line>0;6;6;7;7;7;6;6;0</line>
+	<line>0;6;0;7;0;7;0;6;0</line>
+	<line>0;7;7;7;7;7;6;6;0</line>
+	<line>0;7;0;7;0;7;0;6;0</line>
+	<line>0;8;8;8;8;8;8;8;0</line>
+	<line>0;6;0;1;0;8;0;6;0</line>
+	<line>0;6;6;8;8;8;6;6;0</line>
 	<line>0;0;0;0;0;0;0;0;0</line>
 </map>
 <camera>
